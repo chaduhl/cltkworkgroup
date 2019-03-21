@@ -23,7 +23,7 @@ N-Gram Analysis
 	
 	
 **March 28th	| Session 4: Advanced Functions**  
-Part-of-Speech Tagging 
+Part-of-Speech Tagging
 Clasulae Analysis	  
 	
 	
