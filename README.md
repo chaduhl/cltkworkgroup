@@ -19,25 +19,26 @@ Stopwords & Stoplists	(*Burns 2018*)
 
 **March 7th | Session 3: Basic Functions (cont.)**  
 Concordances  
-N-Gram Analysis  
+N-Gram Analysis  	
 	
 	
-**March 28th	| Session 4: Advanced Functions**  
+**April 18 & 25th	Session 4: Stylometry**  
+Function Words vs. Semantic Words  
+Syntactic-Based Analysis (*Field 2018*)  
+Application: Valerius Maximus, *Facta et Dicta Memorabilia*	  
+	
+	
+**Options for Final Session:**
+
+**More Basic Functions**  
 Part-of-Speech Tagging
 Clasulae Analysis	  
 	
 	
-**April 11th | Session 5: Topic Modelling**  
+**Topic Modelling**  
 Latent Dirichlet Allocation  
 Application: Vergil, *Aeneid*  
 	
 	
-**April 25th | Session 6: Network Analysis**  
-Application: Cicero, *Epistulae*	
-	
-	
-**May 9th	Session 7: Stylometry**  
-Function Words vs. Semantic Words  
-Syntactic-Based Analysis (*Field 2018*)  
-Application: Valerius Maximus, *Facta et Dicta Memorabilia*	  
-
+**Network Analysis**  
+Application: Cicero, *Epistulae*
